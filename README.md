@@ -1,1 +1,2 @@
 # AI-Based-Fitness-Meal-Recommender-
+An AI-based fitness meal and workout recommender is a smart, personalized system that uses artificial intelligence to suggest both meal plans and workout routines based on individual fitness goals—such as weight loss, muscle gain, or maintenance. Users input details like age, gender, activity level, dietary preferences, and health conditions. The AI analyzes this data to recommend tailored meal and workout plans with the right balance of calories and nutrients.
